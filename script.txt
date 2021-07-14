@@ -1,0 +1,9 @@
+#!/bin/bash
+ cd test;
+ mkdir d_1 d_2 d_3;
+ cd d_2;
+ touch a.txt b.txt c.txt e.json f.json ;
+ mkdir dd_1 dd_2 dd_3 ;
+ ls -la ;
+ mv D:/tester2021/testerclone/tester/d_2/dd_1  D:/tester2021/testerclone/tester/d_1/dd_1
+ mv D:/tester2021/testerclone/tester/d_2/dd_2  D:/tester2021/testerclone/tester/d_1/dd_2
