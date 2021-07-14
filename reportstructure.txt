@@ -1,0 +1,19 @@
+1.Summary - A short description of the problem that clearly indicates the cause and type of error.
+2.Project - Name of the tested project
+3.Application Component - Part or function name of the product under test
+4.Version number - The version on which the bug was found
+5.Severity - The most common is a five-level defect severity grading system:
+
+S1 Blocker
+S2 Critical
+S3 Major
+S4 Minor
+S5 Trivial
+6.Priority - Defect priority:
+
+P1 High
+P2 Medium
+P3 Low
+7.Status - Bug status. Depends on the procedure used and the bug life cycle
+8.Author - Bug report creator
+9.Assigned To - Name of the person assigned to resolve the issue
