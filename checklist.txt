@@ -1,0 +1,21 @@
+Check List Structure
+
+
+Registration and personal profile
+  Registration on the site  y/n
+  Edit profile y/n
+
+Feedback form
+  Field validation y/n
+  Sending letter or notification y/n
+  Delivery of letter or notification y/n
+
+Search
+  Search by name y/n
+  Folloving links y/n
+  Search works by various parameters y/n
+
+Comments
+  Adding a comment y/n
+  Comment display y/n
+
